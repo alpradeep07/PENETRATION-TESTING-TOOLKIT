@@ -1,3 +1,16 @@
+NAME : AAKINA LAKSHMI PRADEEP
+
+COMPANY : CODTECH IT SOLUTIONS
+
+INTERN ID :CT06WR16
+
+DOMAIN :Cyber Security & Ethical Hacking
+
+DURATION : MARCH 25th, 2025 to MAY 10th, 2025 (6 WEEKS)
+
+MENTOR : NEELA SANTHOSH
+
+OVERVIEW :PENETRATION TESTING TOOLKIT
 Great! Let’s build a **modular penetration testing toolkit** in **Python**, with multiple tools like:
 
 - Port Scanner  
